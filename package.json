@@ -1,7 +1,7 @@
 {
   "name": "react-tailwind-starter",
   "version": "0.1.0",
-  "proxy": "https://merndairy-backend-production.up.railway.app/",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.4.2",
