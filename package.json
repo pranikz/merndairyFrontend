@@ -1,6 +1,7 @@
 {
   "name": "react-tailwind-starter",
   "version": "0.1.0",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.4.2",
@@ -52,3 +53,4 @@
     "postcss-cli": "^7.1.1"
   }
 }
+
